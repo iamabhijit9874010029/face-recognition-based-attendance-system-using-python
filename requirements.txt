@@ -1,0 +1,16 @@
+numpy==1.16.1
+opencv-contrib-python==4.2.0.34
+opencv-python==4.2.0.34
+openpyxl==3.0.3
+pandas==1.0.3
+Pillow==7.1.1
+pyttsx3==2.71
+
+
+# pip install --upgrade numpy
+# pip install --upgrade opencv-contrib-python
+# pip install --upgrade opencv-python
+# pip install --upgrade openpyxl
+# pip install --upgrade pandas
+# pip install --upgrade Pillow
+# pip install --upgrade pyttsx3
